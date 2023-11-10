@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a."
+description: "Just the Docs isggg a."
 permalink: /
 ---
 
